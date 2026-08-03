@@ -1,0 +1,6 @@
+pyshark
+cryptography
+pandas
+joblib
+scikit-learn
+openpyxl
